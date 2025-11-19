@@ -26,5 +26,7 @@ To write a Python program that checks if a given string ends with a number using
 Add Code here
 
 ## Output
+Thus the required output is got and verified.
+
 
 ## Result
